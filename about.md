@@ -10,9 +10,9 @@ permalink: /about/
 
 ### 好き
 
-音楽ゲーム(特にDanceDanceRevolution)  
-PCゲーム(えっちげーむ。糧)  
-クラブ系音楽(ユーロビート以下のテンポの曲なら何でも聴く)  
+音楽ゲーム (特にDanceDanceRevolution)  
+PCゲーム (えっちげーむ。糧)  
+クラブ系音楽 (ユーロビート以下のテンポの曲なら何でも聴く)  
 
 ### できること
 
@@ -22,4 +22,5 @@ DTM
 
 ### ぞうさん
 
+連絡はこちらまで
 [@r8_gre@mstdn.maud.io](https://mstdn.maud.io/@r8_gre)
