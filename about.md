@@ -8,10 +8,17 @@ permalink: /about/
 
 # ８号 (a.k.a route8,routehachi,hachiroute)
 
-*好き*  
+### 好き
+
 音楽ゲーム(特にDanceDanceRevolution)  
 PCゲーム(えっちげーむ。糧)  
 クラブ系音楽(ユーロビート以下のテンポの曲なら何でも聴く)  
+
+### できること
+
+デザイン  
+3Dモデリング  
+DTM  
 
 ### ぞうさん
 
