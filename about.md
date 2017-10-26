@@ -22,5 +22,5 @@ DTM
 
 ### ぞうさん
 
-連絡はこちらまで
+連絡はこちらまで  
 [@r8_gre@mstdn.maud.io](https://mstdn.maud.io/@r8_gre)
