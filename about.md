@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+![天川 あかり](https://avatars1.githubusercontent.com/u/33120349?s=460&v=4)
 
-### More Information
+# ８号 (a.k.a route8,routehachi,hachiroute)
 
-A place to include any other types of information that you'd like to include about yourself.
+*好き*  
+音楽ゲーム(特にDanceDanceRevolution)  
+PCゲーム(えっちげーむ。糧)  
+クラブ系音楽(ユーロビート以下のテンポの曲なら何でも聴く)  
 
-### Contact me
+### ぞうさん
 
-[email@domain.com](mailto:email@domain.com)
+[@r8_gre@mstdn.maud.io](https://mstdn.maud.io/@r8_gre)
