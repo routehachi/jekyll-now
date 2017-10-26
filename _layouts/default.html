@@ -26,15 +26,6 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
           
-              <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-
-
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
@@ -45,6 +36,14 @@
 
     <div id="main" role="main" class="container">
       {{ content }}
+    </div>
+    
+                  <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include svg-icons.html %}
+        </footer>
+      </div>
     </div>
 
 
