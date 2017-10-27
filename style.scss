@@ -28,7 +28,7 @@ body {
   color: $white;
 	
 @include mobile {
-    background-size: 0%;
+    background-position: center;
   }
 	
 }
