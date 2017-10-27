@@ -160,12 +160,14 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  border-radius: 4px;
+  margin: 10px;
 }
 
 .masthead {
+
   padding: 20px 0;
   background-color: #444b5d;
-　border-radius: 4px;
 
   @include mobile {
     text-align: center;
