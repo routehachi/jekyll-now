@@ -6,8 +6,7 @@ permalink: /about/
 
 ![天川 あかり](https://avatars1.githubusercontent.com/u/33120349?s=460&v=4)
 
-# ８号 (a.k.a route8,  
-routehachi,hachiroute)
+# ８号 (a.k.a route8,routehachi)
 
 ### 好き
 
