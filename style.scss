@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background: #191b22;
 	background-image: url(https://i.gyazo.com/0b64919842734f9ec0114fc2c5a07b36.png);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -257,6 +257,7 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+  background-color: #191b22;
 }
 
 .post {
