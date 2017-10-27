@@ -23,11 +23,12 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: bottom right;
+	background-origin:content-box;
   font: 18px/1.4 $helvetica;
   color: $white;
 	
 @include mobile {
-    background-size:contain;
+    background-size: 0%;
   }
 	
 }
