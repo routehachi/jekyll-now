@@ -40,7 +40,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $White;
   font-weight: bold;
 
   line-height: 1.7;
@@ -69,7 +69,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $White;
 }
 
 p {
@@ -81,7 +81,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    text-decoration: underline;
   }
 }
 
@@ -125,7 +125,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #9baec8;
 }
 
 // Specify the color of the selection
@@ -257,7 +257,6 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
-  background-color: #191b22;
 }
 
 .post {
