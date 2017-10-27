@@ -142,7 +142,6 @@ img {
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
-    border-radius: 4px;
     content: " ";
     display: table;
 }
@@ -161,6 +160,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  border-radius: 4px;
   margin: 10px;
 }
 
