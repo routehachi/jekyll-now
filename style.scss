@@ -25,6 +25,11 @@ body {
 	background-position: bottom right;
   font: 18px/1.4 $helvetica;
   color: $white;
+	
+@include mobile {
+    background-size:contain;
+  }
+	
 }
 
 .container {
