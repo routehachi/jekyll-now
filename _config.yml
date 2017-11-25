@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: Routehachi
 
 defaults:
   -
@@ -32,7 +32,7 @@ categories_path: categories.html
 tags_path: tags.html
 
 # set it as url of an image
-sidebar_background_image: https://www.dropbox.com/s/fj4l12rxwzi2wgh/silhoette.png?raw=1
+# sidebar_background_image: https://www.dropbox.com/s/fj4l12rxwzi2wgh/silhoette.png?raw=1
 
 BASE_PATH:
 
