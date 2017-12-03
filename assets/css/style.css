@@ -115,6 +115,13 @@ article.home div a, article.home pre a { color: #2c3e50; }
 article.home div a:hover, article.home pre a:hover { color: #2c3e50; text-decoration: none; }
 article img { max-width: 100%; }
 
+h1 {
+padding: 0.5em;/*文字周りの余白*/
+color: #494949;/*文字色*/
+background: #fffaf4;/*背景色*/
+border-left: solid 5px #ffaf58;/*左線（実線 太さ 色）*/
+}
+
 h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
 article.home h1,
 article.home h2,
