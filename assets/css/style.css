@@ -7,6 +7,7 @@
 
 body{
 	color: #2c3e50;
+	line-height: 6px
 }
 
 .sidebar {
@@ -119,10 +120,6 @@ article {
 article.home div a, article.home pre a { color: #2c3e50; }
 article.home div a:hover, article.home pre a:hover { color: #2c3e50; text-decoration: none; }
 article img { max-width: 100%; }
-
-p {
-	line-height: 6px;
-}
 
 h1 {
 border-bottom: solid 3px #cce4ff;
