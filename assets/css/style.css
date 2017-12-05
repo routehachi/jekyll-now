@@ -120,11 +120,21 @@ article.home div a, article.home pre a { color: #2c3e50; }
 article.home div a:hover, article.home pre a:hover { color: #2c3e50; text-decoration: none; }
 article img { max-width: 100%; }
 
-h1 {
+h1{
+color: #505050;/*•¶šF*/
 padding: 0.5em;/*•¶šü‚è‚Ì—]”’*/
-color: #010101;/*•¶šF*/
-background: #eaf3ff;/*”wŒiF*/
-border-bottom: solid 3px #516ab6;/*‰ºü*/
+display: inline-block;/*‚¨‚Ü‚¶‚È‚¢*/
+line-height: 1.3;/*s‚*/
+background: #dbebf8;/*”wŒiF*/
+vertical-align: middle;/*ã‰º’†‰›*/
+border-radius: 25px 0px 0px 25px;/*¶‘¤‚ÌŠp‚ğŠÛ‚­*/
+font-size: large;
+}
+
+h1:before {
+content: 'œ';
+color: white;
+margin-right: 8px;
 }
 
 h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
