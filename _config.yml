@@ -8,6 +8,7 @@ markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
 title: Routehachi
+timezone: Japan
 
 defaults:
   -
@@ -24,7 +25,7 @@ author:
   twitter: 
   pinterest: 
   linkedin: 
-  bio: Boubiroku desu
+  bio: Bibouroku desu
   email_md5: 
 
 rss_path: feed.xml
