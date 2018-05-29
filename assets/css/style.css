@@ -103,17 +103,17 @@ article .share .gplus:hover {
 
 @media only screen and (min-width: 768px) {
     .page-header{
-        margin-right: 70px;
+        /* margin-right: 70px; */
     }
 }
 
 article{
-	margin-right: 70px;
+	/* margin-right: 70px; */
 	margin-bottom: 40px;
-	    border-radius: 20px;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 
 .article_body{
@@ -128,9 +128,8 @@ article{
 }
 
 article {
-	padding: 2% 5% 2%;
+	padding: 4% 5% 2%;
 	background: white;
-
 }
 
 article.home div a, article.home pre a { color: #2c3e50; }
