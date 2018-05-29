@@ -6,6 +6,7 @@
 
 	<div class="col-sm-10">
 	 <span class="post-date">
+	   <b>
 	   {% assign d = page.date | date: "%d" | plus:'0' %}
 	   {{ page.date | date: "%B" }} 
 	   {% case d %}
@@ -15,6 +16,7 @@
 	     {% else %}{{ d }}th,
 	   {% endcase %}
 	   {{ page.date | date: "%Y" }}
+	   </b>
 	 </span>
 	  <div class="article_body">
 	  {{ content }}
